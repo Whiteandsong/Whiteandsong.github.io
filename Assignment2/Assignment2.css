@@ -1,0 +1,45 @@
+﻿#container {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+
+body{
+    text-align: center;
+}
+h1{
+    font-family: "Your Desired Font", sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+p{
+   font-size: 15px; 
+   font-weight: lighter;
+}
+.lyrics-container {
+    font-size: 18px; 
+    font-family: "Your Desired Font", sans-serif;
+    line-height: 1.5;
+    color: #000000; 
+}
+
+.lyrics-container span.green {
+    font-weight: normal;
+    color: #1ba500; 
+}
+
+.lyrics-container span.bold {
+    font-weight: bold; 
+}
+
+.lyrics-container span.red {
+    color: #ff0000; 
+}
+
+.lyrics-container span.blue {
+    color: #0000FF;
+}
+
+.lyrics-container span.bigger {
+    font-size: 23px;
+}
