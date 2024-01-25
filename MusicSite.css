@@ -1,7 +1,8 @@
 body {
-    font-family: Papyrus, fantasy;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
     text-align: center;
-    background-color: #f7fdfd;
+    background-color: #000000;
+    color:#ffffff
 }
 
 h1 {
@@ -22,7 +23,7 @@ h4 {
     font-weight: bold;
 }
 .underline {
-    border-bottom: 1px solid #000000; 
+    border-bottom: 1px solid #ffffff; 
     width: 65%; 
     margin: 15px auto; 
 }
